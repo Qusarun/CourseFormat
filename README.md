@@ -58,19 +58,19 @@ This text contains some information to answer the questions that follow.
 BLOCK
 BLOCK
 QUESTION
-Choice question?::choice 1/choice 2/choice 3::2
+Choice question?::choice::choice 1/choice 2/choice 3::2
 BLOCK
 BLOCK
 QUESTION
-Truth question?::true
+Truth question?::truth::true
 BLOCK
 BLOCK
 QUESTION
-Truth question?::false
+Truth question?::truth::false
 BLOCK
 BLOCK
 QUESTION
-Truth question?::not stated
+Truth question?::truth::not stated
 BLOCK
 ```
 ### Note
