@@ -7,7 +7,7 @@
 6. Please, test your courses before publishing them. Also, if you find any bugs, please contact me directly, and I'll try to fix them as soon as possible.
 
 # Course files
-The course file should be stored in the "LangApp/{LANGUAGE}" directory and have the locale (the language that the course is written in) as its file name. So, for example, a course for Toki Pona written in English would be in the "LangApp/Toki Pona" directory and have the name "English".
+The course file should be stored in the "LangApp/{LANGUAGE}" directory and have the locale (the language that the course is written in) as its file name. So, for example, a course for Toki Pona written in English would be in the "LangApp/Toki Pona" directory and have the name "English". The locale must also be in the "LangApp/locales" file.
 
 # Audio files
 All audio files should be stored in the "LangApp/Audio" directory and have unique names that will not overlap with other courses. I recommend something like "{LANGUAGE}-{LOCALE}-{AUDIO_NAME}.mp3".
