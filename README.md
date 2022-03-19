@@ -41,6 +41,7 @@ Any block starts with "BLOCK" and ends with "BLOCK". Both the start and closing 
 Here is an example of a valid text explanation lesson:
 ```
 TEXT_EXPLANATION
+
 BLOCK
 %tTitle
 %nSome text
@@ -53,24 +54,24 @@ BLOCK
 Here is an example of a valid reading test lesson:
 ```
 READING_TEST
+
 BLOCK
 This text contains some information to answer the questions that follow.
 BLOCK
+
+# Choice question format: {QUESTION}::choice::{CHOICE 1}/{CHOICE 2}/...::{CORRECT_CHOICE_NUMBER}
+
 BLOCK
 QUESTION
 Choice question?::choice::choice 1/choice 2/choice 3::2
 BLOCK
+
+# Truth question format: {QUESTION}::truth::{CORRECT_CHOICE}
+# Avaialable choices: true, false, not stated
+
 BLOCK
 QUESTION
 Truth question?::truth::true
-BLOCK
-BLOCK
-QUESTION
-Truth question?::truth::false
-BLOCK
-BLOCK
-QUESTION
-Truth question?::truth::not stated
 BLOCK
 ```
 ### Note
