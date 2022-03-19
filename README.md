@@ -1,7 +1,7 @@
 # Notes for making courses
 1. It is recommended to have small notes in word meanings when the translation isn't specific enough. For example, the German word "du" can't be directly translated to modern English, so it would make sense to put its meaning as "du (sing./inf.)" or something similar.
 2. Text or audio explanations for grammar would be appreciated. I haven't seen much of that in other language learning apps, so it would be nice to have it here.
-3. Word card lessons WILL be broken if you don't have 4+ words when you are calling them.
+3. Word card lessons WILL be broken if you don't have 4+ words in the dictionary when calling them.
 4. Words and lessons go in the order that you put them in.
 5. Word card lessons will use any newly added words before the old ones.
 6. Please, test your courses before publishing them. Also, if you find any bugs, please contact me directly, and I'll try to fix them as soon as possible.
